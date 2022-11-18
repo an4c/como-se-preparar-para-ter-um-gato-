@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>cuidados para chegada de um gato</title>
+	cuidados para chegada de um gato
 </head>
 <body>
 	<h1 align="center"> Como se preparar para chegada de um gato</h1>
