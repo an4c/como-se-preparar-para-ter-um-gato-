@@ -7,7 +7,7 @@
 	<title>cuidados para chegada de um gato</title>
 </head>
 <body>
-	<h1 align="center"> Como se prparar para chegada de um gato</h1>
+	<h1 align="center"> Como se preparar para chegada de um gato</h1>
 <p>Você ja pensou em adotar um felino? Se ja, acompanhe comigo como se preparar para a chegada do seu gatinho!</p>
 <img src="adoptme.png">
 <h3 align="left"> O mais importante e principais itens:</h3>
